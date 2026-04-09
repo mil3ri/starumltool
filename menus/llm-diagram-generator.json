@@ -1,0 +1,19 @@
+{
+  "menu": [
+    {
+      "id": "tools",
+      "submenu": [
+        {
+          "id": "tools.llm-diagram.generate",
+          "label": "Generate Diagram from Description",
+          "command": "llm-diagram:generate"
+        },
+        {
+          "id": "tools.llm-diagram.configure",
+          "label": "Configure LLM Diagram Generator",
+          "command": "llm-diagram:configure"
+        }
+      ]
+    }
+  ]
+}

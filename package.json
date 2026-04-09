@@ -1,0 +1,22 @@
+{
+  "name": "mileri.llm-diagram-generator",
+  "title": "LLM Diagram Generator",
+  "description": "Generate StarUML diagrams from natural language descriptions using a configurable LLM endpoint.",
+  "homepage": "https://example.com",
+  "version": "0.1.0",
+  "keywords": [
+    "staruml",
+    "llm",
+    "diagram",
+    "uml",
+    "erd",
+    "flowchart"
+  ],
+  "author": {
+    "name": "mileri"
+  },
+  "license": "MIT",
+  "engines": {
+    "staruml": ">=6.0.0"
+  }
+}
